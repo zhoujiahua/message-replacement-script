@@ -10,7 +10,7 @@ git pull
 time=$(date +"%Y-%m-%d %H:%M:%S")
 
 # 设置提交信息，包含时间信息
-commit_msg="update on ${time}"
+commit_msg="MRS-V1.0.0 Update on ${time}"
 
 # 添加所有文件到暂存区
 git add .
