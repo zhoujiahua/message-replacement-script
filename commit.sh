@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 切换到代码所在目录
-cd /Users/Administrator/Desktop/ETC/message-replacement-script
+# cd /path/to/your/directory
 
 # 更新本地代码仓库
 git pull
